@@ -1,0 +1,4 @@
+[submodule "PythonGitSubmoduleRepo"]
+	path = PythonGitSubmoduleRepo
+	url = https://github.com/PatrickVienne/PythonGitSubmoduleRepo
+	branch = main
